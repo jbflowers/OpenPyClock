@@ -18,7 +18,7 @@ To run in Windows:
  
 To install:
   - Copy the "Open Py Clock" folder to wherever you want to install!
-  - 
+
 Usage:
  - Right click anywhere on the main clock window to show options or start/stop fullscreen
  - Can customize location, font, colour, size, and format of:
